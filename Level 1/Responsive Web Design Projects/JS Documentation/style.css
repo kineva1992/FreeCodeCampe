@@ -43,6 +43,7 @@ html,body
     cursor: pointer;
 }
 /* navbar settings end */
+/* header and id main-doc settings start */
 header
 {
     color: black;
@@ -62,3 +63,19 @@ header
     padding: 20px;
     margin-bottom: 110px;
   }
+  /* header and id main-doc settings end */
+
+  /* section setting article and tag li start */
+  section article
+  {
+      color: #4d4e53;
+      margin: 15px;;
+      font-size: 0.96em;
+  }
+  section li
+  {
+      margin: 15px 0px 0px 20px;
+  }
+  /* selection setting article and tag li end */
+
+  
